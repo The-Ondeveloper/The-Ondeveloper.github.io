@@ -1,7 +1,7 @@
-layout: page
+---
+layout: default
 title: "Home - Daniel Seddon's Portfolio"
-permalink: https://The-Ondeveloper.github.io
-
+---
 
 ![Profile Picture](Assets/ProfilePic.jpg)
 
