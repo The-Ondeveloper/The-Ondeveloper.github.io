@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Home - Daniel Seddon's Portfolio
+title: Daniel Seddon's Portfolio
 email: seddonmad@gmail.com
 description: >
  - Daniel Seddon - Level 5 Undergraduate Games Developer at Staffordshire University - Gameplay and Mechanics programmer - Looking for placement year in industry.

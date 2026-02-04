@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home - Daniel Seddon's Portfolio"
+title: "Home"
 ---
 
 # Portfolio
