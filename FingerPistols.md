@@ -70,9 +70,19 @@ My philosophy behind level design was that every level should be short and sweet
 and less punishing when you make a mistake. I also took inspiration from the design philosophy of Nintendo games such as Super Mario Wonder,
 where every level is kept interesting by introducing a new gimmick for each level, 
 in my game the level gimmick is defined by the interactable object introduced in that level. 
-For example, 
+For example, the first level after the tutorial introduces jump pads and is built around using them to ascend a tall tower,
+meanwhile the second level introduces boost rings and is built around using them to fly through a race track style level as fast as possible.
+The second level still features jump pads but revolves more heavily around boost rings as it's special *gimmick*.
 
+## Additional viewing
 
+### Finger Pistols playthrough
+
+[![Link to a playthrough of Finger Pistols](https://img.youtube.com/vi/8FUguKl-LaQ/0.jpg)](https://www.youtube.com/watch?v=8FUguKl-LaQ)
+
+### Finger Pistols Test Level Showcase
+
+[![Link to a Test level showcase of Finger Pistols](https://img.youtube.com/vi/TTVkor2Kyg4/0.jpg)](https://www.youtube.com/watch?v=TTVkor2Kyg4)
 
 
 
