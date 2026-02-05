@@ -21,6 +21,8 @@ For example, you could shoot a jump pad to gain a height boost, a speed ring to 
 I got the concept for the finger pistols themselves from the character Doomfist from Overwatch, which also inspired the characters moveset,
 including an uppercut and a punch that boosts you forward.
 
+## [Download the game off the repository.](https://github.com/The-Ondeveloper/FingerPistols)
+
 ## Developing remote interactions with the finger pistols
 
 The most important mechanic of Finger Pistols unique gameplay is the ability to remotely interact with objects and gain their affects by shooting them.
@@ -38,4 +40,44 @@ Due to the ability to remotely interact with objects some balancing descisions h
 be interacted with again, which was necessary to prevent features such as being able to infinetly fly using a single jump pad.
 
 ## Developing movement mechanics
+
+Outside of the finger pistols mechanics, I developed several other abilities for the player to help them get around.
+The player has a double jump, an uppercut, and a charge up punch that launches them in the direction they are facing.
+These abilities are designed to be usuable once each time the player leaves the ground, however, 
+interacting with certain objects in the environment can refresh abilities mid-jump allowing the player to gain some impressive airtime.
+I wanted a wide range of abilities to allow the player to mix up their movements and combo their abilities, 
+creating a satisfying level of skill expression and creativity in how player's approach a level; in combination with environmental interactions, players can beat most levels
+while barely touching the ground which gives the game a unique sense of speed and flow. 
+
+## Score system and the user interface
+
+Every good game built for speedrunning comes with some kind of score system, for this game I wanted the score system to be weighted between both
+how quick you can beat a level and how stylishly you can do it. The game awards you a rank based on highly you score, and your score is multiplied at the end
+of a level based on your time and highest combo. A combo in this game is how many 'interactions' you can pull off mid-air, 
+every ability and object you interact with without touching the ground increases your combo multiplier. You also gain points by travelling in mid-air and interacting
+with objects, everytime you touch the ground your current combo multiplier and 'combo score' gets cashed-in and added to the total score.
+
+To represent the score system in game, I designed the UI to display the total score as well as the current combo multiplier and current combo score.
+I also decided it would be a nice visual flair if there was a brief pop-up when you interact with an object, this shows information designed to
+help players learn about an object by displaying it's name and a little icon, it also displays how many points you got by interacting with the object.
+I also designed icons for all of the player's abilities to help player's keep track of what cooldowns they can still use. 
+I wanted the UI to be as informative as possible without relying on text so that players could easily keep track of information they needed on the fly,
+such as available abilities, as well as help make the various interactable objects in the game more intuitive to understand.
+
+## Designing the levels
+
+My philosophy behind level design was that every level should be short and sweet, which makes an individual level easier to learn for speedrunning, 
+and less punishing when you make a mistake. I also took inspiration from the design philosophy of Nintendo games such as Super Mario Wonder,
+where every level is kept interesting by introducing a new gimmick for each level, 
+in my game the level gimmick is defined by the interactable object introduced in that level. 
+For example, 
+
+
+
+
+
+
+
+
+
 
