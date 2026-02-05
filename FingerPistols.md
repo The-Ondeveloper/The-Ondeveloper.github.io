@@ -52,7 +52,7 @@ while barely touching the ground which gives the game a unique sense of speed an
 ## Score system and the user interface
 
 Every good game built for speedrunning comes with some kind of score system, for this game I wanted the score system to be weighted between both
-how quick you can beat a level and how stylishly you can do it. The game awards you a rank based on highly you score, and your score is multiplied at the end
+how quick you can beat a level and how stylishly you can do it. The game awards you a rank based on how highly you score, and your score is multiplied at the end
 of a level based on your time and highest combo. A combo in this game is how many 'interactions' you can pull off mid-air, 
 every ability and object you interact with without touching the ground increases your combo multiplier. You also gain points by travelling in mid-air and interacting
 with objects, everytime you touch the ground your current combo multiplier and 'combo score' gets cashed-in and added to the total score.
@@ -60,18 +60,18 @@ with objects, everytime you touch the ground your current combo multiplier and '
 To represent the score system in game, I designed the UI to display the total score as well as the current combo multiplier and current combo score.
 I also decided it would be a nice visual flair if there was a brief pop-up when you interact with an object, this shows information designed to
 help players learn about an object by displaying it's name and a little icon, it also displays how many points you got by interacting with the object.
-I also designed icons for all of the player's abilities to help player's keep track of what cooldowns they can still use. 
-I wanted the UI to be as informative as possible without relying on text so that players could easily keep track of information they needed on the fly,
-such as available abilities, as well as help make the various interactable objects in the game more intuitive to understand.
+I also designed icons for all of the player's abilities to help player's keep track of what abilities they can still use during a jump. 
+I wanted the UI to be as informative as possible without relying on text so that players can easily keep track of information they need on the fly,
+such as available abilities, as well as helping make the various interactable objects in the game more intuitive to understand.
 
 ## Designing the levels
 
 My philosophy behind level design was that every level should be short and sweet, which makes an individual level easier to learn for speedrunning, 
 and less punishing when you make a mistake. I also took inspiration from the design philosophy of Nintendo games such as Super Mario Wonder,
-where every level is kept interesting by introducing a new gimmick for each level, 
-in my game the level gimmick is defined by the interactable object introduced in that level. 
+where every level is kept interesting by introducing a new gimmick for each time. 
+In my game the level gimmick is defined by the interactable object introduced in that level. 
 For example, the first level after the tutorial introduces jump pads and is built around using them to ascend a tall tower,
-meanwhile the second level introduces boost rings and is built around using them to fly through a race track style level as fast as possible.
+meanwhile the second level introduces boost rings and is built around using them to fly through a race track.
 The second level still features jump pads but revolves more heavily around boost rings as it's special *gimmick*.
 
 ## Additional viewing
