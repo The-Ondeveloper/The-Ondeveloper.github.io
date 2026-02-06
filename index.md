@@ -9,9 +9,13 @@ title: "Home"
 
 [![Finger Pistols Thumbnail](Assets/FingerPistolsThumbnail.PNG)](https://www.youtube.com/watch?v=R2UXdSEtlkQ)
 
-
 *[Solo project - Speedrunning platformer where your projectiles allow you to interact with the environment from a distance.](https://The-Ondeveloper.github.io/FingerPistols)*
 
+## Ball on the Roll
+
+[![Ball on the Roll Thumbnail](Assets/BallRoll.PNG)](https://youtu.be/CV5w6uu1tZI)
+
+*[Solo project - A game about rolling a ball through a winding level using a floating hand and protecting it from obstacles.](https://The-Ondeveloper.github.io/Ball-on-the-Roll)*
 
 ## Decent Dungeon 
 
