@@ -39,6 +39,8 @@ or shooting at a completely different object.
 Due to the ability to remotely interact with objects some balancing descisions had to be made, for example, most obstacles have quite a long cooldown before they can
 be interacted with again, which was necessary to prevent features such as being able to infinetly fly using a single jump pad.
 
+![The remote interactions and movement mechanics of the game.](Assets/FPGameplay.gif)
+
 ## Developing movement mechanics
 
 Outside of the finger pistols mechanics, I developed several other abilities for the player to help them get around.
