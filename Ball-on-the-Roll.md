@@ -71,6 +71,8 @@ To stop this from being too powerful, the projectiles have a stat that causes th
 
 ## Additional Viewing
 
+### Early Test Video
+
 [![](https://img.youtube.com/vi/gNS9xRwJfks/0.jpg)](https://youtu.be/gNS9xRwJfks)
 
 

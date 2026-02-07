@@ -17,7 +17,11 @@ title: "Home"
 
 *[Solo project - A game about rolling a ball through a winding level using a floating hand and protecting it from obstacles.](https://The-Ondeveloper.github.io/Ball-on-the-Roll)*
 
+## The One Pirate
 
+[![The One Pirate](Assets/TheOnePirate.PNG)](https://youtu.be/3jNirX8R5xU)
+
+*[Solo project - A game made in Unity about hunting for treasure across the oceans as a pirate, all the while fighting off monsters on both land and sea.](https://The-Ondeveloper.github.io/TheOnePirate)*
 
 ## Decent Dungeon 
 
