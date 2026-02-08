@@ -21,7 +21,9 @@ For example, you could shoot a jump pad to gain a height boost, a speed ring to 
 I got the concept for the finger pistols themselves from the character Doomfist from Overwatch, which also inspired the characters moveset,
 including an uppercut and a punch that boosts you forward.
 
-## [Download the game off the repository.](https://github.com/The-Ondeveloper/FingerPistols)
+## [Download the game off the repository,](https://github.com/The-Ondeveloper/FingerPistols)
+
+## [or download a build from here.](https://staffsuniversity-my.sharepoint.com/:u:/g/personal/s013512o_student_staffs_ac_uk/IQAFXF5zfMmSS4p2yy-v8qVfAcLJORrfwSn_UnbcoudYXaI?e=5dNl9N)
 
 ## Developing remote interactions with the finger pistols
 
@@ -86,7 +88,9 @@ The second level still features jump pads but revolves more heavily around boost
 
 [![Link to a Test level showcase of Finger Pistols](https://img.youtube.com/vi/TTVkor2Kyg4/0.jpg)](https://www.youtube.com/watch?v=TTVkor2Kyg4)
 
+## Credits
 
+### *[Mesh and rig made by Jayanam (Animations and textures done by me.)](https://jayanam.gumroad.com/l/eokGb)*
 
 
 

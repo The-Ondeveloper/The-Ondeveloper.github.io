@@ -20,7 +20,9 @@ My role in the group was programming for the UI and character. For the project I
 the character contains the inventory component and has the ability to hold equippable items. I also developed the inventory component and the system for creating
 inventory items. While I designed and programmed the layout of the UI, it should be clear I did not make the assets for it nor did I create the 3D model for the sword. 
 
-## [Download the game off the repository.](https://github.com/The-Ondeveloper/Process-Pipeline-Repository)
+## [Download the game off the repository,](https://github.com/The-Ondeveloper/Process-Pipeline-Repository)
+
+## [or download a build from here.](https://staffsuniversity-my.sharepoint.com/:u:/g/personal/s013512o_student_staffs_ac_uk/IQA7wXJxhjw6Q6V_-Ley0HYpAbbfstPLHZx_9Sd8F7cKLBk?e=gWqfd2)
 
 ## Developing the UI
 

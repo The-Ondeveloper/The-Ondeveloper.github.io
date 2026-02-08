@@ -75,4 +75,8 @@ To stop this from being too powerful, the projectiles have a stat that causes th
 
 [![](https://img.youtube.com/vi/gNS9xRwJfks/0.jpg)](https://youtu.be/gNS9xRwJfks)
 
+## Credits
+
+### *[Mesh and rig made by Jayanam (Animations and textures done by me.)](https://jayanam.gumroad.com/l/eokGb)*
+
 

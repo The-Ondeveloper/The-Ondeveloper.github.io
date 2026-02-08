@@ -19,9 +19,15 @@ title: "Home"
 
 ## The One Pirate
 
-[![The One Pirate](Assets/TheOnePirate.PNG)](https://youtu.be/3jNirX8R5xU)
+[![The One Pirate Thumbnail](Assets/TheOnePirate.PNG)](https://youtu.be/3jNirX8R5xU)
 
 *[Solo project - A game made in Unity about hunting for treasure across the oceans as a pirate, all the while fighting off monsters on both land and sea.](https://The-Ondeveloper.github.io/TheOnePirate)*
+
+## Top Down Turret
+
+[![Top Down Turret Thumbnail](Assets/TopDownTurret.PNG)](https://youtu.be/SNdaokZKR_M)
+
+*[Solo project - A game made in a top down shooter framework, features a variety of weapons, RPG mechanics and branching upgrades for each weapon.](https://The-Ondeveloper.github.io/TopDownTurret)*
 
 ## Decent Dungeon 
 
