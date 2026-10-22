@@ -37,11 +37,11 @@ changes are automatically read by the other classes within the tool.
 I included as many settings as I could in the tool as I wanted users to be able to customise the workflow
 and scale the performance of the tool to their needs.
 
-![The Mesh Section of the Tool UI](Assets/UEM_UiGrid.PNG)
+![The Mesh Section of the Tool UI](Assets/UEM_UIGrid.PNG)
 
 The Grid section of the UI allows users to configure various setting about a mesh before its placed into the world, 
 such as material and scale.
-this one of the core features of Super Unreal Maker as it allows you to easily paint and fit numerous meshes
+This is one of the core features of Super Unreal Maker as it allows you to easily paint and fit numerous meshes
 with the same configuration without relying on duplication.
 
 ![The Settings and functions section of the Tool UI](Assets/UEM_UISettings.PNG)
